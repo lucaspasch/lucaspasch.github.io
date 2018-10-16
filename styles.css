@@ -1,0 +1,30 @@
+h1{
+    color: white;
+}
+
+h2{
+    color:navy
+}
+
+p{
+    color:gray;
+    font-size: 36px;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.navbar-light .navbar-brand {
+    color: gray;
+}
+
+.jumbotron {
+    background-image: url(dota.JPG);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.headline {
+    font-family: 'Nanum Gothic', sans-serif;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 72px
+}
